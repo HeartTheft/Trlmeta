@@ -249,7 +249,7 @@ def source(self):
 
 
 def get_readable_message():
-    msg = "<b>Powered by GarudaMirror</b>\n\n"
+    msg = "<b>𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲「<a href="https://t.me/Tamil_Leech">𝐓𝐚𝐦𝐢𝐥_𝐋𝐞𝐞𝐜𝐡</a>」 </b>\n\n"
     button = None
     tasks = len(download_dict)
     current_time = get_readable_time(time() - bot_start_time)
